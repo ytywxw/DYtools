@@ -1,6 +1,3 @@
-from ast import If
-from lib2to3.pgen2.token import tok_name
-from time import sleep
 import requests, re, json, os
 
 def __fetch(content):
